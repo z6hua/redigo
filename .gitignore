@@ -1,0 +1,5 @@
+.idea
+vendor
+run.log
+logs
+go.sum
